@@ -278,11 +278,13 @@ button:focus,
 .header .content {
     width  : 100%;
     margin : 0 auto;
+
     }
 
 .header .content h1 {
     line-height : 1;
     margin      : 0 0 5px;
+    color : red;
     }
 
 .header .content .lead {
@@ -567,3 +569,6 @@ button:focus,
     text-align : center;
     top        : 65%;
     }
+
+
+    /* maximixze image*/
